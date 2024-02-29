@@ -1,11 +1,12 @@
+
 // ACA EL JUEGO SELECCIONA EL NUMERO AL AZAR
 let numeroAzar = Math.floor(Math.random()*100) + 1
 let N
 
 let numeroEntrada = document.getElementById('numeroEntrada')
 
-let mensaje = document.getElementById('mensaje')
-let intento = document.getElementById('intento')
+const mensaje = document.getElementById('mensaje')
+const intento = document.getElementById('intento')
 let intentos = 0
 
 
