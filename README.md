@@ -1,5 +1,7 @@
 <p>
 Principal referente en Argentina en el ambito de los videojuegos de adivinanza se destaca.
+<br>
+
 ## 📋 Tabla de contenido
 <!----Control mas espacio para seleccionar categoria en el parentesis---->
 - [💻 Tabla de contenido](#📋-tabla-de-contenido)
