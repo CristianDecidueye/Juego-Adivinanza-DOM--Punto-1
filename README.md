@@ -91,7 +91,7 @@ _Diaz Cristian_
 
 ## 📄 Licencia
 
-Codigo y documentacion copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
+Codigo y documentacion copyright 2023-2024 de los autores de ADIVINANZA. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
 
 
 
