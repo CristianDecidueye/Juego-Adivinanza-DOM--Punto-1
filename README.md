@@ -1,18 +1,5 @@
 <p>
 Principal referente en Argentina en el ambito de los videojuegos de adivinanza se destaca.
-<br>
-<a href="https://nexus-89i.netlify.app" alt ="">
-<strong>Explorar pagina »</strong>
-</a>
-<br>
-<br>
-<a href="https://nexus-89i.netlify.app">Reportar un problema</a>
- ·
-<a href="https://nexus-89i.netlify.app">Solicitar una mejora</a>
-<a href="https://nexus-89i.netlify.app">Soporte</a>
-</p>
- </div>
-
 ## 📋 Tabla de contenido
 <!----Control mas espacio para seleccionar categoria en el parentesis---->
 - [💻 Tabla de contenido](#📋-tabla-de-contenido)
